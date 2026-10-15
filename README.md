@@ -20,4 +20,4 @@ This project is created to practice Git and GitHub fundamentals.
 console.log("Hello Git!");
 
 ## Learning Progress
-I have successfully initialized my Git repository and created my first commits.
+ I have successfully initialized my Git repository and created my first commits.
