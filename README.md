@@ -18,25 +18,16 @@ This project is created to practice Git and GitHub fundamentals.
 
 ```javascript
 console.log("Hello Git!");
-
-## Run the Project
-
-Open `index.html` in your browser.
-
-## Example Command
-
-Check the repository status:
-
-```bash
-statusgit 
 ```
 
 ## GitHub Profile
 
-[Visit my GitHub profile](https://github.com/mimou777)
+[Visit my GitHub profile](https://github.com/Amramix108)
 
 ## Project Image
+
 ![Project Banner](assets/project-banner.svg)
+
 
 
 
