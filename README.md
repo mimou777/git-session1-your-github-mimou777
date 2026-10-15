@@ -19,5 +19,24 @@ This project is created to practice Git and GitHub fundamentals.
 ```javascript
 console.log("Hello Git!");
 
-## Learning Progress
- I have successfully initialized my Git repository and created my first commits.
+## Run the Project
+
+Open `index.html` in your browser.
+
+## Example Command
+
+Check the repository status:
+
+```bash
+statusgit 
+```
+
+## GitHub Profile
+
+[Visit my GitHub profile](https://github.com/mimou777)
+
+## Project Image
+![Project Banner](assets/project-banner.svg)
+
+
+
